@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="ja">
+
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width" />
+  <title>スタイル</title>
+
+  <style>
+    strong {
+      color: blue;
+    }
+  </style>
+
+</head>
+
+<body>
+
+  <p>
+    私は毎日パソコンを使って勉強しています。特に
+    <strong>HTML</strong>や
+    <strong>CSS</strong>を学ぶことで、
+    <strong>Webページ</strong>の作成方法を理解できるようになりました。
+  </p>
+
+</body>
+
+</html>
